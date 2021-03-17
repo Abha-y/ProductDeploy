@@ -1,8 +1,6 @@
 package com.infosys.Product.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.ApplicationArguments;
-import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Service;
 
 import com.infosys.Product.dto.SubscribedproductsDTO;
