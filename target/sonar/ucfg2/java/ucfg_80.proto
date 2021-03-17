@@ -1,0 +1,36 @@
+
+~com.infosys.Product.service.ProductsService#addSubscription(Lcom/infosys/Product/dto/SubscribedproductsDTO;)Ljava/lang/String;e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaX X("1*ã
+1e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaY Y(,ðí
+e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaY Y(E2
+%0,com.infosys.Product.entity.Subscribedproduct"tcom.infosys.Product.dto.SubscribedproductsDTO#createSubcribedProduct()Lcom/infosys/Product/entity/Subscribedproduct;*@
+>
+subProductdto-com.infosys.Product.dto.SubscribedproductsDTO2createSubcribedProduct()â
+ß
+e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaY Y(F:
+
+subproduct,com.infosys.Product.entity.Subscribedproduct"__id*4
+2
+%0,com.infosys.Product.entity.Subscribedproductñ
+î
+e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaZ Z(	A
+%1;com.infosys.Product.repository.SubscribedproductsRepository"__id*<*:-
++com.infosys.Product.service.ProductsService"	
+subrepoš—
+e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.javaZ Z(2
+%2,com.infosys.Product.entity.Subscribedproduct"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*C
+A
+%1;com.infosys.Product.repository.SubscribedproductsRepository*<
+:
+
+subproduct,com.infosys.Product.entity.Subscribedproduct2save(Ljava/lang/Object;)"
+e
+[C:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/service/ProductsService.java[ [(,$"
+ Subscription added successfully!:>
+subProductdto-com.infosys.Product.dto.SubscribedproductsDTOB/-
++com.infosys.Product.service.ProductsService

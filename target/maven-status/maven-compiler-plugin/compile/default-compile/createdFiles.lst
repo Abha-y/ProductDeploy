@@ -6,6 +6,5 @@ com\infosys\Product\dto\ProductsDTO.class
 com\infosys\Product\service\ProductsService.class
 com\infosys\Product\validator\Validator.class
 com\infosys\Product\entity\Subscribedproduct.class
-com\infosys\Product\ProductApplication.class
 com\infosys\Product\repository\SubscribedproductsRepository.class
 com\infosys\Product\dto\SubscribedproductsDTO.class

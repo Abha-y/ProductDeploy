@@ -1,0 +1,61 @@
+
+›com.infosys.Product.controller.ProductsController#addSubscription(Lcom/infosys/Product/dto/SubscribedproductsDTO;)Lorg/springframework/http/ResponseEntity;k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javab b(."1*Ü
+1k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javac c(à
+Ý
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javac c(%
+%0org.apache.logging.log4j.Logger"__id*A*?3
+1com.infosys.Product.controller.ProductsController"
+logger 
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javac c(1
+
+%1void"9org.apache.logging.log4j.Logger#info(Ljava/lang/String;)V*'
+%
+%0org.apache.logging.log4j.Logger*$"
+ adding subscription for buyer...2info(Ljava/lang/String;)õ
+ò
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javad d(!1
+%2+com.infosys.Product.service.ProductsService"__id*J*H3
+1com.infosys.Product.controller.ProductsController"
+productsServiceÁ¾
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javad d(@
+%3java.lang.String"~com.infosys.Product.service.ProductsService#addSubscription(Lcom/infosys/Product/dto/SubscribedproductsDTO;)Ljava/lang/String;*3
+1
+%2+com.infosys.Product.service.ProductsService*@
+>
+subProductdto-com.infosys.Product.dto.SubscribedproductsDTO2@addSubscription(Lcom/infosys/Product/dto/SubscribedproductsDTO;)®
+«
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javad d(A
+responsejava.lang.String"__id*
+
+%3java.lang.String©
+¦
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javae. e(;)
+%4#org.springframework.http.HttpStatus"__id*
+""ÈÅ
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javae e(#-
+%5'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityÞ
+Û
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javae	 e(<
+%6"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%5'org.springframework.http.ResponseEntity*
+
+responsejava.lang.String*+
+)
+%4#org.springframework.http.HttpStatus"ž
+k
+aC:/Users/Abhay/productDeploy/src/main/java/com/infosys/Product/controller/ProductsController.javae e(=/
+-
+%5'org.springframework.http.ResponseEntity:>
+subProductdto-com.infosys.Product.dto.SubscribedproductsDTOB53
+1com.infosys.Product.controller.ProductsController
